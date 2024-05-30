@@ -1,0 +1,18 @@
+/* Layout.css */
+
+/* Style for the links */
+.Link {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333; /* or any color you prefer */
+  }
+  
+  /* Style for the container div */
+  .Container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
